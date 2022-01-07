@@ -1,5 +1,3 @@
-# radium
-
 ## Project - Quora
 
 ### Key points
