@@ -1,4 +1,4 @@
-#Project - Quora
+##Project - Quora
 #Key points
 Validations
 Please include all the basic validations in code this time. For example you should write your own code to ensure that a userId passed as the path param must be a valid ObjectId and in such a case the error should be handled within the try block and not the catch block. This applies to all the validations whose failure lead to a 500 error. A valid error should be 400, 401, 403 or 404, as the case may be.
