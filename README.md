@@ -1,4 +1,4 @@
-## Project - Quora
+## Project - Quora Clone
 
 ### Key points
 
